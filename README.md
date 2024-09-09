@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Cao Wenxuan.
-- 📫 How to reach me ...I live in Xi'an Jiaotong University.
+ Hi, I’m Cao Wenxuan.
+I study in Xi'an Jiaotong University.
 
